@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laziosi</string>
+    <string name="text_label_1">Анализы</string>
+    <string name="text_label_2">Препараты</string>
+    <string name="text_label_3">Показатели</string>
+    <string name="text_label_4">Рекомендации</string>
+
+
+</resources>
